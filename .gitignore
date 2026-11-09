@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# next
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# env & deploy
+.env*
+.vercel
+
+# private source documents (resume source + LinkedIn export) — never publish
+/about/
+
+# misc
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
+# local tooling
+.claude/
