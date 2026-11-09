@@ -14,7 +14,7 @@ export const profile = {
   /** Replace with "/profile.jpg" once a real photo is added to /public */
   photo: null as string | null,
   resume: "/Akshith_Reddy_Resume.pdf",
-  siteUrl: "https://akshithreddy.vercel.app",
+  siteUrl: "https://akshith-reddy.vercel.app",
   typingRoles: [
     "AI Engineer",
     "Multi-Agent Systems Builder",
